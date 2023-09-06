@@ -1,5 +1,5 @@
 # Seq2Seq_En-Hr
-Performance of OpenNMT sequence-to-sequence LM in translating English-Croatian
+Code for a project assessing the performance of OpenNMT sequence-to-sequence LM in translating English-Croatian
 
 From a 2022 term paper in collaboration with Cameron Duval on "NMT Training and Morphological Learning of Low-Resource Languages":
 
